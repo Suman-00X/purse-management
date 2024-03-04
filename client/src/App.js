@@ -46,7 +46,7 @@ function App() {
        illustrating my commitment to crafting a prosperous future
         <br/>
         <br/>
-        ~ Sainath Kadam
+        ~ Suman Raj
         </StyledQuote>
         </>
       );

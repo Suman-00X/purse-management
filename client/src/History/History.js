@@ -7,7 +7,6 @@ function History() {
   const [...history] = transactionHistory();
   return (
     <HistoryStyled>
-      <h2>Recent History</h2>
       {history.map((item) => {
         const { _id, title, amount, type } = item;
         return (
